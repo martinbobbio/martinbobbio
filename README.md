@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/martinbobbio">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https:/https://t.me/facundopadilla">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
   
 </p>
 
@@ -27,7 +24,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/macbook%20pro-orange.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-ryzen%202200g%20-red.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20I7%20-red.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
