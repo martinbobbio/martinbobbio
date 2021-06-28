@@ -7,7 +7,7 @@
   Frontend Engineer from Buenos Aires, Argentina.
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   <img src="https://img.shields.io/badge/workspace-blue.svg?&style=for-the-badge&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/macbook%20pro-blue.svg?&style=for-the-badge&logo=apple&logoColor=white" />
@@ -27,12 +27,11 @@
   <a href="https://discord.gg/PrZE3Qs9AH">
     <img src="https://img.shields.io/badge/discord-green.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/stats-grey.svg?&style=for-the-badge&logoColor=white" />
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<!--   <img src="https://img.shields.io/badge/stats-grey.svg?&style=for-the-badge&logoColor=white" /> -->
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=radical" width="350"></a>
   <br/>
 <!--   <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
@@ -40,7 +39,7 @@
 </p>
 
 <details>
-  <summary>📃 Exprecience, Education and Skills</summary>
+  <summary>📃 More Information</summary>
 
 
 ## Education
