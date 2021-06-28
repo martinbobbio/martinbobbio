@@ -7,36 +7,33 @@
   Frontend Engineer from Buenos Aires, Argentina.
 </p>
 
-
+<p align='center'>
+  <img src="https://img.shields.io/badge/workspace-blue.svg?&style=for-the-badge&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/macbook%20pro-blue.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20I7%20-blue.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM%2016GB-blue.svg?&style=for-the-badge&logoColor=white" />
+</p>
 
 <p align='center'>
-  
+  <img src="https://img.shields.io/badge/contact-green.svg?&style=for-the-badge&logoColor=white" />
+  <br/>
   <a href="https://www.linkedin.com/in/martinbobbio">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/linkedin-green.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:martinbobbio1@gmail.com">
+    <img src="https://img.shields.io/badge/mail-green.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/PrZE3Qs9AH">
+    <img src="https://img.shields.io/badge/discord-green.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <p align='center'>
+  <img src="https://img.shields.io/badge/stats-grey.svg?&style=for-the-badge&logoColor=white" />
+  <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/macbook%20pro-orange.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel%20I7%20-red.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:martinbobbio1@gmail.com'>martinbobbio1@gmail.com</a>
-</p>
-<p align='center'>
+  <br/>
   <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
   <a href="#"><img src="https://badges.pufler.dev/repos/martinbobbio"></a>
