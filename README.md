@@ -4,7 +4,9 @@
 </h1>
 
 <p align='center'>
-  Frontend Engineer from Buenos Aires, Argentina.
+  🌱 I’m a Full stack developer with a degree in Information Technology. 
+  </br>
+  👨‍💻  I am passionate about Web Dev & I enjoy learning new things.
 </p>
 
 <!-- <p align='center'>
@@ -14,15 +16,6 @@
   <img src="https://img.shields.io/badge/Intel%20I7%20-blue.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM%2016GB-blue.svg?&style=for-the-badge&logoColor=white" />
 </p> -->
-
-<p align='center'>
-<!--   <img src="https://img.shields.io/badge/stats-grey.svg?&style=for-the-badge&logoColor=white" /> -->
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
-  <br/>
-<!--   <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
-  <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
-  <a href="#"><img src="https://badges.pufler.dev/repos/martinbobbio"></a> -->
-</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/martinbobbio">
@@ -37,53 +30,91 @@
 </p>
 
 <details>
-  <summary>📃 More Info</summary>
-
-
-## Education
-
-- 📖 **Analista en Sistemas**\
-📆 2015 - 2018\
-📍 **Escuela Da Vinci** - Buenos Aires, Argentina
-
-- 📖 **Tecnologías de la información**\
-📆 2019 - 2021\
-📍 **Universidad Palermo** - Buenos Aires, Argentina
-
-
-## Experience
-
-- 👨‍💻 **Developer Frontend**\
-📆 2021 - moment\
-📍 **Ripio** - Buenos Aires, Argentina
- 
- - 👨‍💻 **Developer Frontend**\
-📆 2019 - 2021\
-📍 **Banco Galicia** - Buenos Aires, Argentina
- 
-- 👨‍💻 **Developer Jr.**\
-📆 2017 - 2019\
-📍 **Varcelona** - Buenos Aires, Argentina
-
-## Technical information
-
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MacOS-0078D6?logo=apple&logoColor=white" />
-
-**Operating Systems**
+  <summary>📃 Education</summary>
+  <br/>
   
-<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Flask-181717?logo=flask&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Pycharm-181717?logo=pycharm&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/MySQL-3498DB?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Linux-181717?logo=linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-3498DB?logo=docker&logoColor=white" />
-  
-**Skills**
+  - 📖 **Analista en Sistemas**\
+  📆 2015 - 2018\
+  📍 **Escuela Da Vinci** - Buenos Aires, Argentina
 
+  - 📖 **Tecnologías de la información**\
+  📆 2019 - 2021\
+  📍 **Universidad Palermo** - Buenos Aires, Argentina
+  <br/>
+</details>
+
+<details>
+  <summary>📃 Experience</summary>
+  <br/>
+  
+  - 👨‍💻 **Developer Frontend**\
+  📆 2021 - moment\
+  📍 **Ripio** - Buenos Aires, Argentina
+
+   - 👨‍💻 **Developer Frontend**\
+  📆 2019 - 2021\
+  📍 **Banco Galicia** - Buenos Aires, Argentina
+
+  - 👨‍💻 **Developer Jr.**\
+  📆 2017 - 2019\
+  📍 **Varcelona** - Buenos Aires, Argentina
+  <br/>
+</details>
+
+<details>
+  <summary>📃 Proyects</summary>
+  <br/>
+  
+  - Coming soon
+  <br/>
+</details>
+
+<details>
+  <summary>📃 Skills</summary>
+  
+  <br/>
+  <img align="right" src="https://img.shields.io/badge/Ubuntu-38b5a8?logo=ubuntu&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Windows-38b5a8?logo=windows&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/MacOS-38b5a8?logo=apple&logoColor=white" />
+
+  **Operating Systems**
+  
+  <img align="right" src="https://img.shields.io/badge/Javascript-38b5a8?logo=javascript&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Typescript-38b5a8?logo=typescript&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/NodeJS-38b5a8?logo=node.js&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Dart-38b5a8?logo=dart&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Python-38b5a8?logo=python&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Java-38b5a8?logo=java&logoColor=white" />
+
+  **Languages**
+  
+  <img align="right" src="https://img.shields.io/badge/React-38b5a8?logo=react&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Angular-38b5a8?logo=angular&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Vue-38b5a8?logo=vue.js&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Typescript-38b5a8?logo=express&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Symfony-38b5a8?logo=symfony&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Laravel-38b5a8?logo=laravel&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Flask-38b5a8?logo=flask&logoColor=white" />
+  
+  **Frameworks**
+  
+  <img align="right" src="https://img.shields.io/badge/MySQL-38b5a8?logo=mysql&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/MongoDB-38b5a8?logo=mongodb&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/PostgreSQL-38b5a8?logo=postgresql&logoColor=white" />
+  
+  **Databases**
+  
+  <img align="right" src="https://img.shields.io/badge/Code-38b5a8?logo=Visual%20Studio%20Code&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Github-38b5a8?logo=github&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Docker-38b5a8?logo=docker&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Jenkins-38b5a8?logo=jenkins&logoColor=white" />
+  <img align="right" src="https://img.shields.io/badge/Postman-38b5a8?logo=postman&logoColor=white" />
+  
+  **Others**
 
 </details>
+
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/martinbobbio"></a>
+  <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
+</p>
