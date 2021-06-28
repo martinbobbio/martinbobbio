@@ -34,9 +34,9 @@
   <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <br/>
-  <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
+<!--   <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
-  <a href="#"><img src="https://badges.pufler.dev/repos/martinbobbio"></a>
+  <a href="#"><img src="https://badges.pufler.dev/repos/martinbobbio"></a> -->
 </p>
 
 <details>
