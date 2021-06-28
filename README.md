@@ -40,7 +40,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Exprecience, Education and Skills</summary>
 
 
 ## Education
