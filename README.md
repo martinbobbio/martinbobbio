@@ -13,33 +13,31 @@
   <img src="https://img.shields.io/badge/macbook%20pro-blue.svg?&style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20I7%20-blue.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM%2016GB-blue.svg?&style=for-the-badge&logoColor=white" />
-</p>
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/contact-green.svg?&style=for-the-badge&logoColor=white" />
-  <br/>
-  <a href="https://www.linkedin.com/in/martinbobbio">
-    <img src="https://img.shields.io/badge/linkedin-green.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:martinbobbio1@gmail.com">
-    <img src="https://img.shields.io/badge/mail-green.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/PrZE3Qs9AH">
-    <img src="https://img.shields.io/badge/discord-green.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </p> -->
 
 <p align='center'>
 <!--   <img src="https://img.shields.io/badge/stats-grey.svg?&style=for-the-badge&logoColor=white" /> -->
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=radical" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martinbobbio&show_icons=true&count_private=true&theme=tokyonight" width="350"></a>
   <br/>
 <!--   <a href="#"><img src="https://badges.pufler.dev/visits/martinbobbio/profile"></a>
   <a href="#"><img src="https://badges.pufler.dev/years/martinbobbio"></a>
   <a href="#"><img src="https://badges.pufler.dev/repos/martinbobbio"></a> -->
 </p>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/martinbobbio">
+    <img src="https://img.shields.io/badge/linkedin-%2338b5a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:martinbobbio1@gmail.com">
+    <img src="https://img.shields.io/badge/mail-%2338b5a8.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/PrZE3Qs9AH">
+    <img src="https://img.shields.io/badge/discord-%2338b5a8.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 <details>
-  <summary>📃 More Information</summary>
+  <summary>📃 More Info</summary>
 
 
 ## Education
