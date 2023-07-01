@@ -33,13 +33,17 @@
   <summary>📃 Education</summary>
   <br/>
   
-  - 📖 **Analista en Sistemas**\
+  - 📖 **Systems Analist**\
   📆 2015 - 2018\
   📍 **Escuela Da Vinci** - Buenos Aires, Argentina
 
-  - 📖 **Tecnologías de la información**\
+  - 📖 **Information Technology Engineering**\
   📆 2019 - 2021\
   📍 **Universidad Palermo** - Buenos Aires, Argentina
+
+  - 📖 **Data Science**\
+  📆 2022 - 2023\
+  📍 **Digital House** - Buenos Aires, Argentina
   <br/>
 </details>
 
@@ -47,11 +51,11 @@
   <summary>📃 Experience</summary>
   <br/>
   
-  - 👨‍💻 **Developer Frontend**\
-  📆 2021 - moment\
+  - 👨‍💻 **Developer Frontend Sr**\
+  📆 2021 - 2023\
   📍 **Ripio** - Buenos Aires, Argentina
 
-   - 👨‍💻 **Developer Frontend**\
+   - 👨‍💻 **Developer Frontend SSr**\
   📆 2019 - 2021\
   📍 **Banco Galicia** - Buenos Aires, Argentina
 
